@@ -1,0 +1,1 @@
+# nifty-gateway-beeple-solver
